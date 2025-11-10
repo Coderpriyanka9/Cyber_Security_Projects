@@ -1,0 +1,10 @@
+requests 
+aiohttp 
+pandas 
+elasticsearch 
+python-dotenv 
+rich 
+schedule
+whois
+ipwhois
+python-whois
